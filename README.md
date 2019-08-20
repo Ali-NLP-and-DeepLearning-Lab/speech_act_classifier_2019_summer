@@ -63,3 +63,5 @@ demo endpoint is implemented by django.
     python sar_endpoint/test.py
 
 this is tested in server itself. maybe you should change ip setting in 'sar_endpoint/sar_endpoint/settings.py' ALLOWED_HOSTS or in test.py. 
+
+there is runnable end point in 'kixlab2@internal.kixlab.org:~/check_vrm/'. please activate vrm-torch virtual environment and follow above instructions.
