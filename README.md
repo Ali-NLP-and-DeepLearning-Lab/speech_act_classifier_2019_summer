@@ -43,7 +43,7 @@ what you need in '{your_dir}/data/' is following files.
     'swda_train_data.csv'
     'swda_val_data.csv'
     'vrm_train_data.csv'
-    'vrmm_val_data.csv'
+    'vrm_val_data.csv'
     'word2vec_from_glove.bin'
     'GoogleNews-vectors-negative300.bin'  -> optional. not used. using glove one instead
 
