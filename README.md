@@ -1,4 +1,4 @@
-# Speech act recognition
+# Speech Act Classificatione
 
 Set up any virtual environment with python 3.6.1 and at '{your_dir}/VRM_recognition/' type following install command.
 
@@ -53,7 +53,7 @@ You can check model architecture in 'src/model/bilstm_ram.py'. and configuration
 
 Data pipeline is implemented in 'src/dataset/'. the code is quite complicated and it is tightly correlated with format of data, so please if you want to modify it, check train_data.csv file carefully. or also there is a simple version of data preprocessing in 'sar_endpoint/speech_act/views.py', so please check.
 
-# Speech-act recognition endpoint
+# Speech Act Classifier Endpoint
 
 demo endpoint is implemented by django. 
 
