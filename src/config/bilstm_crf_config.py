@@ -1,0 +1,10 @@
+num_tag = 42
+embedding_dim=300
+pos_len=45
+sent_len=45
+hidden_dim_enc= 300
+hidden_dim_dec = 300
+dropout_rate=0.0
+num_layers= 1
+chunk_size =0
+max_dialogue_len = 540

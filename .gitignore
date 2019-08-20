@@ -1,0 +1,8 @@
+data
+log
+checkpoint
+*_trial*
+.DS_Store
+*_pycache_*
+trained_model
+
