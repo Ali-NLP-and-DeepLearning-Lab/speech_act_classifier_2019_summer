@@ -1,4 +1,4 @@
-# Speech-act recognition
+# Speech act recognition
 
 Set up any virtual environment with python 3.6.1 and at '{your_dir}/VRM_recognition/' type following install command.
 
